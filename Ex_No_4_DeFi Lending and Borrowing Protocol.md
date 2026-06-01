@@ -99,3 +99,5 @@ Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
 
+Thus, DeFi Lending and Borrowing Protocol is successfully verified.
+
